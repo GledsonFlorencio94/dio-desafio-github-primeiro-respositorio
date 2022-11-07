@@ -1,4 +1,4 @@
-# dio-desafio-github-primeiro-respositorio
+# Desafio de Projeto sobre Git/GitHub da DIO
 Repositório criado para Desafio de Porjeto.
 
 
