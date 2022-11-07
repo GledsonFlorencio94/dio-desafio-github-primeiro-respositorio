@@ -1,0 +1,7 @@
+Link para download do Git: https://git-scm.com/
+
+Git e um repositório de controle de versão de arquivos, utilizado para controlar versões de código-fonte e desenvolvimento colaborativo
+
+
+o Git Bash é um terminal extendido para otimizar o uso do Git
+
